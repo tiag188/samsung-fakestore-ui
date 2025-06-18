@@ -1,0 +1,13 @@
+com\samsung\fakestore\dto\OrderProductDTO.class
+com\samsung\fakestore\dto\ProductDTO.class
+com\samsung\fakestore\service\ProductService.class
+com\samsung\fakestore\bean\SearchBean.class
+com\samsung\fakestore\dto\OrderDTO.class
+com\samsung\fakestore\dto\ClientDTO.class
+com\samsung\fakestore\SamsungFakeStoreUiApplication.class
+com\samsung\fakestore\service\CartService.class
+com\samsung\fakestore\bean\OrderViewBean.class
+com\samsung\fakestore\dto\CartDTO.class
+com\samsung\fakestore\service\ClientService.class
+com\samsung\fakestore\bean\ProductBean.class
+com\samsung\fakestore\dto\CartDTO$CartProductDTO.class
