@@ -65,3 +65,10 @@ O projeto utiliza [PrimeFlex](https://www.primefaces.org/primeflex/) para facili
 - Não é necessário Payara, Tomcat ou outro servidor externo.
 
 ---
+
+## Estrutura do projeto
+
+```
+samsung-fakestore-api/     # Backend Spring Boot
+samsung-fakestore-ui/      # Frontend PrimeFaces
+```
