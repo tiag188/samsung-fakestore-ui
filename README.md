@@ -12,6 +12,7 @@ Interface web para consulta de pedidos e produtos, construída com **Spring Boot
 
 - Java 17+
 - Maven 3.8+
+- [Rodar primeiro backend API](https://github.com/tiag188/samsung-fakestore-api)
 
 ## Como rodar
 
