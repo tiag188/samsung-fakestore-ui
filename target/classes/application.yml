@@ -1,7 +1,0 @@
-joinfaces:
-  faces:
-    project-stage: Development
-  primefaces:
-    theme: saga
-server:
-  port: 8080

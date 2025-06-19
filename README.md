@@ -38,6 +38,18 @@ Interface web para consulta de pedidos e produtos, construída com **Spring Boot
 4. **Acesse no navegador:**
    - [http://localhost:8080/index.xhtml](http://localhost:8080/index.xhtml)
 
+## Subindo o RabbitMQ com Docker
+
+Para rodar o RabbitMQ localmente (incluindo painel de administração), execute:
+
+```sh
+docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+```
+
+- Acesse o painel em: [http://localhost:15672](http://localhost:15672)  
+  Usuário: `guest`
+  Senha: `guest`
+
 ## Estrutura do Projeto
 
 - `src/main/resources/META-INF/resources/` — arquivos `.xhtml` das telas

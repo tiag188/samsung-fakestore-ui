@@ -7,6 +7,7 @@ public class ProductDTO {
     private String image;
     private Double price;
     private String description;
+    private Integer quantity;
 
     public String getDescription() {
         return description;
@@ -54,5 +55,13 @@ public class ProductDTO {
 
     public void setPrice(Double price) {
         this.price = price;
+    }
+
+    public Integer getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(Integer quantity) {
+        this.quantity = quantity;
     }
 }
