@@ -2,8 +2,6 @@ package com.samsung.fakestore.dto;
 
 import java.util.List;
 
-import com.samsung.fakestore.dto.CartDTO.CartProductDTO;
-
 public class CartDTO {
     private Long id;
     private Long userId;
